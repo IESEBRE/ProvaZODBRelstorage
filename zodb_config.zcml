@@ -1,0 +1,11 @@
+%import relstorage
+
+<zodb main>
+    <relstorage>
+       <oracle>
+         user zodb
+         password zodb
+         dsn localhost:1521/xe
+       </oracle>
+    </relstorage>
+</zodb>
