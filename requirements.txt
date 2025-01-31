@@ -1,0 +1,17 @@
+BTrees==6.1
+cffi==1.17.1
+cx-Oracle==8.3.0
+packaging==24.2
+perfmetrics==4.1.0
+persistent==6.1
+pycparser==2.22
+RelStorage==4.1.1
+transaction==5.0
+zc.lockfile==3.0.post1
+ZConfig==4.2
+ZODB==6.0
+zodbpickle==4.1.1
+zope.deferredimport==5.0
+zope.dottedname==6.0
+zope.interface==7.2
+zope.proxy==6.1
